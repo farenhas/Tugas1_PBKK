@@ -54,3 +54,5 @@
 Setiap halaman dirancang untuk responsif, menyesuaikan tampilan berdasarkan perangkat yang digunakan, baik itu desktop, tablet, atau smartphone untuk memudahkan user.
 
 <img src="https://github.com/farenhas/Tugas1_PBKK/blob/main/resources/pbkk1_responsive.png?raw=true" width="500" alt="Halaman Tentang">
+
+## Update Section 3-4 
