@@ -155,3 +155,9 @@ Route::get('/blog', [App\Http\Controllers\PostController::class, 'index']);
     <p>{{ $post->content }}</p>
 @endforeach
 ```
+
+#### Update Section 5
+1. Membuat 200 data dummy untuk post menggunakan `App\Models\Post::factory(200)->create();  `
+   ![image](https://github.com/user-attachments/assets/351bfe62-9c3b-40dc-b420-e6f5239afea4)
+
+
