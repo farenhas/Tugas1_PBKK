@@ -32,7 +32,7 @@
 #### Header
 - **Judul**: "Halaman Blog"
 #### Isi
-- **Deskripsi**: Menampilkan 2 juddul artikel blog posts dengan ringkasan paragraf singkat untuk setiap artikel.
+- **Deskripsi**: Menampilkan 2 judul artikel blog posts dengan ringkasan paragraf singkat untuk setiap artikel.
 
   <img src="https://github.com/farenhas/Tugas1_PBKK/blob/main/resources/pbkk1_blog.png?raw=true" width="500" alt="Halaman Tentang">
 
@@ -54,6 +54,7 @@
 Setiap halaman dirancang untuk responsif, menyesuaikan tampilan berdasarkan perangkat yang digunakan, baik itu desktop, tablet, atau smartphone untuk memudahkan user.
 
 <img src="https://github.com/farenhas/Tugas1_PBKK/blob/main/resources/pbkk1_responsive.png?raw=true" width="500" alt="Halaman Tentang">
+
 
 ## Update Section 3-4 
 ![image](https://github.com/user-attachments/assets/0f60dfa8-d75f-4b36-967e-4f4b03c156ca)
