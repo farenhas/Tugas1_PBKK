@@ -163,5 +163,12 @@ Route::get('/blog', [App\Http\Controllers\PostController::class, 'index']);
 2. Membuat relasi antara penulis dan artikel
    ![image](https://github.com/user-attachments/assets/1c4c101f-316d-4d40-a5c0-dda063c52514)
 
+3. Menambah Post Category dan mengkategorikan artikel berdasarkan nama author
+   ![image](https://github.com/user-attachments/assets/410c7098-dd94-40d2-9c94-2b3927cc1d9a)
+
+   ![image](https://github.com/user-attachments/assets/0297b77c-285f-4579-950c-e23a9bf5dd29)
+
+
+
 
 
