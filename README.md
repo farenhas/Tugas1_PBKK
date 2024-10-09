@@ -171,6 +171,10 @@ Route::get('/blog', [App\Http\Controllers\PostController::class, 'index']);
 #### Update Section 6
 1. Mengatasi N+1 Problem
    ![image](https://github.com/user-attachments/assets/90f9a0bc-3bbf-4a74-ace0-825b3d0c7bad)
+
+2. Redesign UI
+   ![image](https://github.com/user-attachments/assets/44696ae2-7db4-4cc8-8965-5efc01e22510)
+
    
 
 
