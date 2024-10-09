@@ -175,6 +175,9 @@ Route::get('/blog', [App\Http\Controllers\PostController::class, 'index']);
 2. Redesign UI
    ![image](https://github.com/user-attachments/assets/44696ae2-7db4-4cc8-8965-5efc01e22510)
 
+3. Searching
+   ![image](https://github.com/user-attachments/assets/d4c8361b-3c39-4ef5-abd0-12699bcb9f8d)
+
    
 
 
