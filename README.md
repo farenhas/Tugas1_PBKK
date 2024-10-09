@@ -178,6 +178,10 @@ Route::get('/blog', [App\Http\Controllers\PostController::class, 'index']);
 3. Searching
    ![image](https://github.com/user-attachments/assets/d4c8361b-3c39-4ef5-abd0-12699bcb9f8d)
 
+4. Pagination
+   ![image](https://github.com/user-attachments/assets/a31979ac-94ff-46e5-931e-434c13358bfd)
+
+
    
 
 
